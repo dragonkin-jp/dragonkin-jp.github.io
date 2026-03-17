@@ -25,5 +25,6 @@
 * [ストーリー攻略](story.md)
 * [レベリング](leveling.md)
 * [マルチプレイ](multiplayer.md)
+* [Tips・豆知識](tips.md)
 * [パッチノート](patch-notes.md)
 * [情報源](sources.md)
