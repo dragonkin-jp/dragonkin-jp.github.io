@@ -28,3 +28,4 @@
 * [Tips・豆知識](tips.md)
 * [パッチノート](patch-notes.md)
 * [情報源](sources.md)
+* [用語集](glossary.md)
