@@ -7,10 +7,10 @@
 
 ## 🎮 基本メカニクス
 
-### Adaptive Damage（適応ダメージ）
+### アダプティブダメージ（Adaptive Damage）
 スキルのダメージは、キャラクターが持つ**最も高い属性ボーナスが全スキルに自動適用**される仕組みになっています。
 
-これにより、クラスと[Wyrmling](glossary.md#wyrmlingワイバーミング)の組み合わせを自由に選んでも火力が無駄になりません。例えばKnightでCobalt（電気）Wyrmlingを使っても、電気ボーナスが高ければスキルに適用されます。
+これにより、クラスと[ワイバーミング（Wyrmling）](glossary.md#wyrmling)の組み合わせを自由に選んでも火力が無駄になりません。例えばナイト（Knight）でコバルト（Cobalt）ワイバーミングを使っても、電気ボーナスが高ければスキルに適用されます。
 
 ### 難易度・スケーリング
 - 敵はプレイヤーのレベルに**自動スケール**するため、どのエリアでも一定の難易度が保たれます
@@ -28,14 +28,14 @@
 - オンライン ↔ オフラインの切り替え
 - 都市間の移動
 
-### Local Co-op
+### ローカルCo-op（Local Co-op）
 **同じPC・同じアカウントから2キャラクター同時プレイが可能**です。ソファCO-OPとして家族や友人と一緒に遊べます。
 
 ### マルチプレイの自動追従
 マルチプレイ中に他プレイヤーが**10秒間動かないと自動的に追従**が始まります。離れすぎた際のリカバリーに便利です。
 
-### Loot Filter
-隠しオプションで不要なアイテムを**自動的にGoldやGrand Benedicteurのポテンシャルに変換**できます。在庫管理が楽になります。
+### ルートフィルター（Loot Filter）
+隠しオプションで不要なアイテムを**自動的にゴールド（Gold）やグランド・ベネディクター（Grand Benedicteur）のポテンシャルに変換**できます。在庫管理が楽になります。
 
 *情報源: [arpgs.net](http://www.arpgs.net/dragonkin-the-banished/)*
 
@@ -46,27 +46,27 @@
 ### リソースの種類
 | 種類 | 用途 |
 |------|------|
-| **[Gold](glossary.md#通貨素材)** | 装備・Fragmentの売買、クラフト |
-| **[Dust](glossary.md#通貨素材)** | Mythicレアリティ装備のクラフト・強化 |
-| **Material** | 装備・Wyrmling Armorのクラフト |
-| **Resource** | ポーション・リングのクラフト |
+| **[ゴールド（Gold）](glossary.md)** | 装備・フラグメント（Fragment）の売買、クラフト |
+| **[ダスト（Dust）](glossary.md)** | ミシック（Mythic）レアリティ装備のクラフト・強化 |
+| **マテリアル（Material）** | 装備・ワイバーミングアーマーのクラフト |
+| **リソース（Resource）** | ポーション・リングのクラフト |
 
 ### 入手方法
-- **[Dark Merchant](glossary.md#通貨素材)**：装備をGoldで売却 / MythicレアリティをDustに変換
+- **[ダークマーチャント（Dark Merchant）](glossary.md)**：装備をゴールドで売却 / ミシック装備をダストに変換
 - **敵からのドロップ**：難易度・バイオームによって入手できる素材が異なる
 - **宝箱・採集ノード**：マップ上に散在。狙った素材を効率よく集められる
-- **Eternal Gift**：特定条件で入手できる特別報酬
+- **エターナルギフト（Eternal Gift）**：特定条件で入手できる特別報酬
 
 ### 難易度とドロップの関係
 | 素材 | 必要難易度 |
 |------|-----------|
-| Dust | [Desolation](glossary.md#難易度) III以上（セミボス・ボスのみ） |
-| Divine Material | [Calamity](glossary.md#難易度) III以上 |
+| ダスト（Dust） | [デソレーション（Desolation）](glossary.md#difficulty) IⅡ以上（セミボス・ボスのみ） |
+| ディバインマテリアル（Divine Material） | [カラミティ（Calamity）](glossary.md#difficulty) III以上 |
 
 ### バイオームと素材の対応
 各クラフト素材は**特定のバイオームに紐付いて**おり、マップの**背景色がヒント**になります。
 
-> 💡 **Domistria Plains** はあらゆるバイオームの素材がドロップする特別なエリアです。複数の素材をまとめて集めたいときに有効です。
+> 💡 **ドミストリア平原（Domistria Plains）** はあらゆるバイオームの素材がドロップする特別なエリアです。複数の素材をまとめて集めたいときに有効です。
 
 *情報源: [Steam コミュニティ - Resources and how to Farm them!](https://steamcommunity.com/app/1863430/discussions/0/601905389491006948/)*
 
