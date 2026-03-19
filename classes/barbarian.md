@@ -156,6 +156,10 @@
 | Flurry of Blows（連打） | Primary | 物理 | Whirlwindとセットで使用。エネルギー低下時に使うと効果的 | SlashingCreeps |
 | Hailstorm Barrage（ひょう弾雨） | Primary | 氷 | Wyrmlingトリガーで追加弾発射。敵を凍結させる | Steam コミュニティ |
 | Corrupted Blood（汚染された血）+6 | Utility/特殊 | 物理 | ライフをエネルギーの代わりに消費。バリア50%付与＋エネルギー回復の500%をHP回復へ変換。スキル連発を可能にする上級スキル | Steam コミュニティ |
+| Meteor Projection（メテオ投射） | 不明 | 不明 | 詳細は情報収集中 | Steam コミュニティ |
+| Ice Breath（アイスブレス） | 不明 | 氷 | 詳細は情報収集中 | Steam コミュニティ |
+| Ice Spike（アイススパイク） | 不明 | 氷 | 詳細は情報収集中 | Steam コミュニティ |
+| Ice Shield（アイスシールド） | 不明 | 氷 | 詳細は情報収集中 | Steam コミュニティ |
 
 ### v1.0 タレント（新規追加）
 
