@@ -11,9 +11,7 @@ build-dir = "book"
 [output.html]
 default-theme = "rust"
 preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/dragonkin-jp/dragonkin-jp.github.io"
 no-section-label = false
-edit-url-template = "https://github.com/dragonkin-jp/dragonkin-jp.github.io/edit/main/{path}"
 site-url = "/"
 additional-css = ["theme/custom.css"]
 
