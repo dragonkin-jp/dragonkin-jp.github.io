@@ -1,6 +1,6 @@
 [book]
-title = "Dragonkin: The Banished 日本語Wiki"
-description = "Dragonkin: The Banished の日本語攻略Wiki"
+title = "Dragonkin: The Banished 日本語攻略まとめ"
+description = "Dragonkin: The Banished の日本語攻略まとめ"
 authors = ["dragonkin-jp"]
 language = "ja"
 src = "."
