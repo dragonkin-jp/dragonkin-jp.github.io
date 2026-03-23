@@ -9,7 +9,7 @@ src = "."
 build-dir = "book"
 
 [output.html]
-default-theme = "navy"
+default-theme = "rust"
 preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/dragonkin-jp/dragonkin-jp.github.io"
 no-section-label = false
