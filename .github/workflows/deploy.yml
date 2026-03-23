@@ -28,6 +28,20 @@ jobs:
       - name: Build
         run: mdbook build
 
+      - name: Generate sitemap.xml
+        run: |
+          SITE_URL="https://dragonkin-jp.github.io"
+          echo '<?xml version="1.0" encoding="UTF-8"?>' > book/sitemap.xml
+          echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">' >> book/sitemap.xml
+          find book -name '*.html' ! -name 'print.html' ! -name '404.html' ! -name 'toc.html' | sort | while read f; do
+            path="${f#book/}"
+            echo "  <url><loc>${SITE_URL}/${path}</loc></url>" >> book/sitemap.xml
+          done
+          echo '</urlset>' >> book/sitemap.xml
+
+      - name: Copy robots.txt
+        run: cp robots.txt book/robots.txt
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
