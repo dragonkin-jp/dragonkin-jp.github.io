@@ -1,6 +1,6 @@
 # 用語集（Glossary）
 
-> 📌 Dragonkin: The Banishedの固有名詞一覧です。本Wikiでは **カタカナ（English）** 形式で表記を統一しています。
+> 📌 Dragonkin: The Banishedの固有名詞一覧です。本サイトでは **カタカナ（English）** 形式で表記を統一しています。
 
 ---
 
