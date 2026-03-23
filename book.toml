@@ -1,0 +1,17 @@
+[book]
+title = "Dragonkin: The Banished 日本語Wiki"
+description = "Dragonkin: The Banished の日本語攻略Wiki"
+authors = ["dragonkin-jp"]
+language = "ja"
+src = "."
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/dragonkin-jp/dragonkin-jp.github.io"
+no-section-label = false
+edit-url-template = "https://github.com/dragonkin-jp/dragonkin-jp.github.io/edit/main/{path}"
+site-url = "/"
