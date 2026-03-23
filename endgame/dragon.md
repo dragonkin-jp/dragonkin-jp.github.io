@@ -12,12 +12,13 @@
 
 ## 4体のドラゴンロード一覧
 
-| # | 名前 | 肩書き（英語） | バイオーム | 確認状況 |
-|---|------|--------------|-----------|---------|
-| 1 | **カアラング（Kaaralang）** | Banished Lord of the Jungle | ジャ＝クサラ（Act 1） | EA から存在。名前・情報確認済み |
-| 2 | **ザンティネオス（Xhantineos）** | Banished Lord of Okeanos | オケアノス（Act 2） | パッチノートで名称確認済み |
-| 3 | **ヴィドスクリグ（Vidskrig）** | Banished Lord of Nurõrgartt | ヌルガルト（Act 3） | パッチノートで名称確認済み |
-| 4 | **不明** | Banished Lord of Erde-nòr | エルデ=ノール（Act 4） | PS5トロフィーで存在確認。名前未判明 |
+| # | 名前 | 肩書き（英語） | バイオーム | 討伐トロフィー | 確認状況 |
+|---|------|--------------|-----------|-------------|---------|
+| 1 | **カアラング（Kaaralang）** | Banished Lord of the Jungle | ジャ＝クサラ（Act 1） | The End of Whispers | EA から存在。名前・情報確認済み |
+| 2 | **ザンティネオス（Xhantineos）** | Banished Lord of Okeanos | オケアノス（Act 2） | Pride and its Cost | パッチノートで名称確認済み |
+| 3 | **ヴィドスクリグ（Vidskrig）** | Banished Lord of Nurõrgartt | ヌルガルト（Act 3） | Death and Memory | パッチノートで名称確認済み |
+| 4 | **不明** | Banished Lord of Erde-nòr | エルデ=ノール（Act 4） | Virtue and Strength | PS5トロフィーで存在確認。名前未判明 |
+| 5 | **プライモーディアル・バニッシュド・ロード** | Primordial Banished Lord | 不明（最終決戦） | The Light Prevails | PS5トロフィーで存在確認。詳細は情報収集中 |
 
 ---
 
@@ -48,6 +49,17 @@
 - **特徴**: EA期間の第1メジャーアップデート（2025年5月）で追加。「細長い蛇のような巨体の氷ドラゴン」との目撃情報（海外レビュー）。複数フェーズ構成で最終フェーズに特殊演出あり
 - **属性**: 氷系
 - 攻略詳細: 情報収集中
+
+---
+
+### 5. プライモーディアル・バニッシュド・ロード（Primordial Banished Lord）
+- **肩書き**: Primordial Banished Lord（プライモーディアル・バニッシュド・ロード）
+- **登場タイミング**: 4体のドラゴンロード討伐後の最終決戦
+- **特徴**: ストーリー最終ボス。PS5トロフィー「The Light Prevails（光の勝利）」がこのボス討伐で解放される
+- **属性**: 情報収集中
+- **バイオーム・詳細**: 情報収集中
+
+> 🚧 このボスの攻略詳細は情報収集中。4体のドラゴンロードとは別の存在として確認済み。
 
 ---
 
@@ -91,6 +103,7 @@
 [v1.0ローンチ記事（Soren.com）](https://soren.com/en/news/dragonkin-the-banished/2026-03-16-dragonkin-the-banished-10-unleashes-full-story)
 [Steam パッチノート](https://steamcommunity.com/app/1863430)
 [Exophase: PS5トロフィー一覧](https://www.exophase.com/game/dragonkin-the-banished-psn/trophies/)
+[GamerBlurb: Achievements & Trophies Guide](https://gamerblurb.com/articles/dragonkin-the-banished-achievements-trophies-guide)
 [Nacon公式](https://www.nacongaming.com/en-US/dragonkin-the-banished)
 
 ---

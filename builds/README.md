@@ -31,7 +31,7 @@
 ## 💪 Barbarian ビルド
 
 ### 🌪️ [Whirlwind（回転斬り）ビルド](barbarian-whirlwind.md)
-- スキル: Savage Whirlwind + Corrupted Blood
+- スキル: Wild Whirlwind + Corrupted Blood
 - スタイル: Rageを蓄積してWhirlwindで範囲を刈り取る近接スタイル
 - 強み: シンプルで安定した立ち回り。初心者にも扱いやすい
 - 難易度: 初心者〜中級者向け

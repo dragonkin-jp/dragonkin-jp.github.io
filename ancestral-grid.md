@@ -96,6 +96,22 @@ Dragonkin: The Banishedの核心システム。六角形グリッドにフラグ
 
 ---
 
+## マルチプレイアップデート（2026年2月）追加タレント
+
+マルチプレイ実装パッチ（v1.0正式リリース前）で各クラスに追加されたタレント群。
+
+| クラス | タレント名 |
+|--------|----------|
+| オラクル | アルケイン・インスタビリティ（Arcane Instability）、マーチング・スピリット（Marching Spirit） |
+| バーバリアン | コラプテッド・ブラッド（Corrupted Blood）※スキルとしても機能する特殊タレント |
+| ナイト | ファイティング・ファイア・ウィズ・ファイア（Fighting Fire with Fire）、インポジション・オブ・ストレングス（Imposition of Strength） |
+| トラッカー | スニーク・アタック（Sneak Attack）、マーシレス・リフレックス（Merciless Reflexes） |
+| 全クラス共通 | エネルギー・ジェネレーター（Energy Generator）、アルティメット・エンハンスメント2（Ultimate Enhancement 2） |
+
+> 📌 情報源: dragonkinthebanished.wiki（クラスページ）。各タレントの効果詳細は情報収集中。
+
+---
+
 ## 情報源
 [GamesPress: スキルシステム紹介](https://www.gamespress.com/Dragonkin-The-Banished-Introduces-Its-Unique-Skill-System)
 [DualShockers: How to Unlock Symbiosis](https://www.dualshockers.com/dragonkin-the-banished-how-to-unlock-symbiosis/)
