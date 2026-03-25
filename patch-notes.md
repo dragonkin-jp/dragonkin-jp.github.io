@@ -1,6 +1,6 @@
 # パッチノート
 
-> 📌 情報源: aRPG Timeline / Steam / Nacon公式
+> 📌 情報源: aRPG Timeline / Steam / Nacon公式 / SteamDB / GameHelper.io（2026年3月更新）
 アップデート情報を時系列でまとめるページ。
 
 ---
@@ -24,6 +24,12 @@
 
 > ⚠️ オンラインセッションへの参加にはゲームの最新バージョンへのアップデートが必要。問題が続く場合は公式Discordへの報告を推奨。
 
+### 未修正の既知バグ（2026年3月時点）
+以下のバグはこのホットフィックスでは**修正されていない**。引き続き公式パッチを待つ状況：
+- **「The Lost Scale」クエスト — Son-Kan NPC消失**：NPCが会話途中で消え進行不能になる。コミュニティ回避策あり（[multiplayer.md 参照](../multiplayer.md)）
+- **マルチプレイ キャラクター進行問題**：ゲストとして参加した場合、キャラクターがホストワールドにリセットされる仕様
+- **敵スケーリング問題**：Co-op時に敵がパーティ最高レベルに合わせてスケールする
+
 [Steam: Hotfix now live](https://store.steampowered.com/news/app/1863430/view/532124583945306657)
 
 ---
@@ -46,6 +52,28 @@
 
 [  詳細: aRPG Timeline](https://www.arpg-timeline.com/game/dragonkin-the-banished)
 [  v1.0リリース記事 (Soren.com)](https://soren.com/en/news/dragonkin-the-banished/2026-03-16-dragonkin-the-banished-10-unleashes-full-story)
+
+---
+
+## v0.9 — マルチプレイアップデート（2026年2月25日）
+
+Early Access最後の大型アップデート。オンラインCo-opを正式実装。
+
+### 主な追加・変更内容
+- **オンラインCo-op（最大4人）** を実装
+- モンテスカイルの進行システムを刷新（よりシンプルかつ明確な構成に）
+- スキルとエネルギーコストを全面改訂（Generator/Spenderシステムを廃止）
+- 各クラスに新タレントを追加（詳細は [ancestral-grid.md](../ancestral-grid.md) 参照）
+- Lv.50以降の進行（アンセスターEXP）を正式導入
+
+### バグ修正
+- Catacombs of Fire・Plains of Koles・Fafnir's Glacierで透明な壁によりプレイヤーが進行不能になるバグを修正
+- エンドゲームまたは既存ストーリーグループで新キャラクターを開始した際のデフォルトスキル・装備が正しく設定されないバグを修正
+- クエストダイアログを素早くスキップした際に報酬が空になるバグを修正
+- ワイバーミングのアトリビュートポイントを再振り分けした際にタレントがリセットされるバグを修正
+
+[Steam: Multiplayer Patch Notes!](https://store.steampowered.com/news/app/1863430/view/576019638373057668)
+[SteamDB: マルチプレイパッチノート詳細](https://steamdb.info/patchnotes/22002239/)
 
 ---
 
