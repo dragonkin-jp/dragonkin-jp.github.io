@@ -39,6 +39,11 @@ jobs:
           done
           echo '</urlset>' >> book/sitemap.xml
 
+      - name: Add redirect to 404 page
+        run: |
+          sed -i 's|</head>|<meta http-equiv="refresh" content="3;url=/"></head>|' book/404.html
+          sed -i 's|<main>|<main><div style="text-align:center;padding:2em;"><p>ページが見つかりませんでした。3秒後にトップページへ移動します。</p><p><a href="/">トップページへ</a></p></div>|' book/404.html
+
       - name: Copy static files
         run: |
           cp robots.txt book/robots.txt
