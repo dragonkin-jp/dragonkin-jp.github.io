@@ -48,3 +48,7 @@
 
 ## 📚 情報源一覧
 詳しくは [情報源](sources.md) を参照
+
+---
+
+このサイトが役に立ったら [☕ サポートする](https://ko-fi.com/gameguidejp)

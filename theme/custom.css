@@ -23,3 +23,22 @@
     margin-top: 1.2em;
     margin-bottom: 0.4em;
 }
+
+/* Ko-fi サイドバーリンク */
+#kofi-sidebar {
+    padding: 1em 1.2em;
+    margin-top: 1em;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    text-align: center;
+}
+#kofi-sidebar a {
+    color: #ff5e5b;
+    text-decoration: none;
+    font-size: 0.85em;
+    opacity: 0.8;
+    transition: opacity 0.2s;
+}
+#kofi-sidebar a:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
