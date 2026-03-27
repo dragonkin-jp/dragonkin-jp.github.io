@@ -60,7 +60,7 @@
 ### 難易度とドロップの関係
 | 素材 | 必要難易度 |
 |------|-----------|
-| ダスト（Dust） | [デソレーション（Desolation）](glossary.md#difficulty) IⅡ以上（セミボス・ボスのみ） |
+| ダスト（Dust） | [デソレーション（Desolation）](glossary.md#difficulty) III以上（セミボス・ボスのみ） |
 | ディバインマテリアル（Divine Material） | [カラミティ（Calamity）](glossary.md#difficulty) III以上 |
 
 ### バイオームと素材の対応

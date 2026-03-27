@@ -20,9 +20,9 @@
 | 3 | ハード（Hard） | +10% | ドラコニック（Draconic）装備 |
 | 4 | ベリーハード（Very Hard） | +20% | ― |
 | 5 | エクストリーム（Extreme） | +50% | ― |
-| 6 | **デソレーションⅠ（Desolation I）** | +80% | ミシック（Mythical）装備（Lv.45以上）・プリモーディアル・ダスト（Primordial Dust） |
+| 6 | **デソレーションⅠ（Desolation I）** | +80% | ミシック（Mythical）装備（Lv.45以上） |
 | 7 | デソレーションⅡ（Desolation II） | +90% | ― |
-| 8 | デソレーションⅢ（Desolation III） | +100% | ― |
+| 8 | **デソレーションⅢ（Desolation III）** | +100% | プリモーディアル・ダスト（Primordial Dust）※セミボス・ボスのみ |
 | 9 | デソレーションⅣ（Desolation IV） | +110% | ― |
 | 10 | デソレーションⅤ（Desolation V） | +120% | ― |
 | 11 | **カラミティⅠ（Calamity I）** | +170% | ディバイン（Divine）装備・ディバイン素材 |
