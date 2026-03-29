@@ -24,19 +24,24 @@ jobs:
 
       - name: Generate changelog
         run: |
-          git log --pretty=format:"%ad: %s" --date=short -100 | grep -v "Co-Authored-By" | grep -v "Merge" | grep "^\S*: \[wiki\]" | sed 's/\[wiki\] //' | sed 's/^/- /' | head -10 > /tmp/changelog.txt
+          git log --pretty=format:"%ad: %s" --date=short -100 | grep -v "Co-Authored-By" | grep -v "Merge" | grep "^\S*: \[wiki\]" | sed 's/\[wiki\] //' | sed 's/^/- /' > /tmp/changelog_all.txt
+          head -10 /tmp/changelog_all.txt > /tmp/changelog_top.txt
           python3 -c "
           import re
-          with open('README.md', 'r') as f:
-              content = f.read()
-          with open('/tmp/changelog.txt', 'r') as f:
-              changelog = f.read()
-          content = re.sub(
-              r'<!-- CHANGELOG_START -->.*?<!-- CHANGELOG_END -->',
-              '<!-- CHANGELOG_START -->\n' + changelog + '\n<!-- CHANGELOG_END -->',
-              content, flags=re.DOTALL)
-          with open('README.md', 'w') as f:
-              f.write(content)
+          for fname, tag_start, tag_end, src in [
+              ('README.md', 'CHANGELOG_START', 'CHANGELOG_END', '/tmp/changelog_top.txt'),
+              ('changelog.md', 'FULL_CHANGELOG_START', 'FULL_CHANGELOG_END', '/tmp/changelog_all.txt'),
+          ]:
+              with open(fname, 'r') as f:
+                  content = f.read()
+              with open(src, 'r') as f:
+                  changelog = f.read()
+              content = re.sub(
+                  rf'<!-- {tag_start} -->.*?<!-- {tag_end} -->',
+                  f'<!-- {tag_start} -->\n' + changelog + f'\n<!-- {tag_end} -->',
+                  content, flags=re.DOTALL)
+              with open(fname, 'w') as f:
+                  f.write(content)
           "
 
       - name: Setup mdBook

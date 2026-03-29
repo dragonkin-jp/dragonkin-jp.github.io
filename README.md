@@ -32,7 +32,7 @@
 
 ---
 
-## 🔄 更新履歴
+## 🔄 更新履歴（[全履歴はこちら](changelog.md)）
 <!-- CHANGELOG_START -->
 <!-- CHANGELOG_END -->
 - 2026-03-30: Thorns/Summonerビルド追加、ティアリスト・バグ情報追記

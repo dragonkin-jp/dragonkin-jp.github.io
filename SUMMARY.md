@@ -29,3 +29,4 @@
 * [パッチノート](patch-notes.md)
 * [情報源](sources.md)
 * [用語集](glossary.md)
+* [更新履歴](changelog.md)
