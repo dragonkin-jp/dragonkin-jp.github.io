@@ -36,6 +36,14 @@
 
 ---
 
+## クラス評価（1.0 メタ）
+
+**Sティア**（2026年3月時点）。速度ファームとエンドゲーム安定性で最上位評価。エンドゲームではThornsビルドが最強候補とされている。
+
+> 📌 情報源: [GamerBlurb](https://gamerblurb.com/articles/dragonkin-the-banished-best-class-tier-list) / [playerauctions.com](https://www.playerauctions.com/dragonkin-tb-guide/tips-guides/best-builds-for-all-classes/)
+
+---
+
 ## おすすめビルド方向性
 
 ### ⚔️ ワールウィンド（Whirlwind）ビルド ― 最も人気・初心者〜エンドゲーム対応
@@ -47,6 +55,14 @@
 コラプテッド・ブラッド（Corrupted Blood）はライフをエネルギーの代わりに消費する上級スキルで、バリア50%付与＋エネルギー回復を大幅に底上げする。スキル連発を持続させる鍵であり、初見ではスキップしがちだが習得すると一気に戦闘が安定する。
 
 **おすすめワイバーミング：** ビリジアン（毒）
+
+### 🐉 ソーンズ（Thorns）ビルド ― エンドゲーム上級者向け
+
+**敵の攻撃をダメージ反射（Thorns）**で返すエンドゲーム特化構成。Calamity帯のカオスマップで「バーバリアン最強構成」として複数の海外攻略サイトで言及されている。Corrupted Blood +6 による耐久サイクルが核心。
+
+詳細: [Thornsビルドページ](../builds/barbarian-thorns.md)（詳細スキル構成は情報収集中）
+
+**おすすめワイバーミング：** 調査中
 
 ### ❄️ ヘイルストーム・バレッジ（Hailstorm Barrage）ビルド ― 氷・凍結CC型
 
