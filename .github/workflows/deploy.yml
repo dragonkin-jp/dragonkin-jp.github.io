@@ -24,7 +24,7 @@ jobs:
 
       - name: Generate changelog
         run: |
-          git log --pretty=format:"- %ad: %s" --date=short -20 | grep -v "Co-Authored-By" | grep -v "Merge" | head -10 > /tmp/changelog.txt
+          git log --pretty=format:"%ad: %s" --date=short -100 | grep -v "Co-Authored-By" | grep -v "Merge" | grep "^\S*: \[wiki\]" | sed 's/\[wiki\] //' | sed 's/^/- /' | head -10 > /tmp/changelog.txt
           python3 -c "
           import re
           with open('README.md', 'r') as f:
