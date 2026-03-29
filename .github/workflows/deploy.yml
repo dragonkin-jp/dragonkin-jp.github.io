@@ -24,8 +24,20 @@ jobs:
 
       - name: Generate changelog
         run: |
-          CHANGELOG=$(git log --pretty=format:"- %ad: %s" --date=short -20 | grep -v "Co-Authored-By" | grep -v "Merge" | head -10)
-          sed -i "/<!-- CHANGELOG_START -->/,/<!-- CHANGELOG_END -->/c\<!-- CHANGELOG_START -->\n${CHANGELOG}\n<!-- CHANGELOG_END -->" README.md
+          git log --pretty=format:"- %ad: %s" --date=short -20 | grep -v "Co-Authored-By" | grep -v "Merge" | head -10 > /tmp/changelog.txt
+          python3 -c "
+          import re
+          with open('README.md', 'r') as f:
+              content = f.read()
+          with open('/tmp/changelog.txt', 'r') as f:
+              changelog = f.read()
+          content = re.sub(
+              r'<!-- CHANGELOG_START -->.*?<!-- CHANGELOG_END -->',
+              '<!-- CHANGELOG_START -->\n' + changelog + '\n<!-- CHANGELOG_END -->',
+              content, flags=re.DOTALL)
+          with open('README.md', 'w') as f:
+              f.write(content)
+          "
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
