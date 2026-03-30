@@ -24,25 +24,71 @@ jobs:
 
       - name: Generate changelog
         run: |
-          git log --pretty=format:"%ad: %s" --date=short -100 | grep -v "Co-Authored-By" | grep -v "Merge" | grep "^\S*: \[wiki\]" | sed 's/\[wiki\] //' | sed 's/^/- /' > /tmp/changelog_all.txt
-          head -10 /tmp/changelog_all.txt > /tmp/changelog_top.txt
-          python3 -c "
-          import re
-          for fname, tag_start, tag_end, src in [
-              ('README.md', 'CHANGELOG_START', 'CHANGELOG_END', '/tmp/changelog_top.txt'),
-              ('changelog.md', 'FULL_CHANGELOG_START', 'FULL_CHANGELOG_END', '/tmp/changelog_all.txt'),
+          python3 << 'PYEOF'
+          import re, subprocess
+
+          # SUMMARY.mdからファイル名→ページ名マッピングを構築
+          page_map = {}
+          with open('SUMMARY.md', 'r') as f:
+              for line in f:
+                  m = re.search(r'\[(.+?)\]\((.+?)\)', line)
+                  if m:
+                      name, path = m.group(1), m.group(2)
+                      page_map[path] = name
+
+          # [wiki]プレフィックス付きコミット一覧を取得
+          log = subprocess.run(
+              ['git', 'log', '--pretty=format:%H|%ad|%s', '--date=short', '-100'],
+              capture_output=True, text=True
+          ).stdout.strip().split('\n')
+
+          top_lines = []
+          full_lines = []
+          for entry in log:
+              if not entry or '[wiki]' not in entry:
+                  continue
+              sha, date, msg = entry.split('|', 2)
+              msg = msg.replace('[wiki] ', '')
+
+              # このコミットで変更された.mdファイルを取得
+              diff = subprocess.run(
+                  ['git', 'diff-tree', '--no-commit-id', '-r', '--name-only', sha],
+                  capture_output=True, text=True
+              ).stdout.strip().split('\n')
+              md_files = [f for f in diff if f.endswith('.md') and f not in ('README.md', 'SUMMARY.md', 'changelog.md')]
+
+              # ページ名リンクに変換
+              links = []
+              for f in md_files:
+                  name = page_map.get(f, None)
+                  if name:
+                      html = f.replace('.md', '.html').replace('README.html', 'index.html')
+                      links.append(f'[{name}]({html})')
+
+              line = f'- {date}: {msg}'
+              full_line = line
+              if links:
+                  full_line += '\n  - 更新: ' + '、'.join(links)
+
+              top_lines.append(line)
+              full_lines.append(full_line)
+
+          top_text = '\n'.join(top_lines[:10])
+          full_text = '\n'.join(full_lines)
+
+          for fname, tag_start, tag_end, text in [
+              ('README.md', 'CHANGELOG_START', 'CHANGELOG_END', top_text),
+              ('changelog.md', 'FULL_CHANGELOG_START', 'FULL_CHANGELOG_END', full_text),
           ]:
               with open(fname, 'r') as f:
                   content = f.read()
-              with open(src, 'r') as f:
-                  changelog = f.read()
               content = re.sub(
                   rf'<!-- {tag_start} -->.*?<!-- {tag_end} -->',
-                  f'<!-- {tag_start} -->\n' + changelog + f'\n<!-- {tag_end} -->',
+                  f'<!-- {tag_start} -->\n' + text + f'\n<!-- {tag_end} -->',
                   content, flags=re.DOTALL)
               with open(fname, 'w') as f:
                   f.write(content)
-          "
+          PYEOF
 
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
