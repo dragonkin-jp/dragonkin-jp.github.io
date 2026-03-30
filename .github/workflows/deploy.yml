@@ -45,10 +45,12 @@ jobs:
           top_lines = []
           full_lines = []
           for entry in log:
-              if not entry or '[wiki]' not in entry:
+              if not entry:
                   continue
               sha, date, msg = entry.split('|', 2)
-              msg = msg.replace('[wiki] ', '')
+              if not msg.startswith('[wiki] '):
+                  continue
+              msg = msg.replace('[wiki] ', '', 1)
 
               # このコミットで変更された.mdファイルを取得
               diff = subprocess.run(
