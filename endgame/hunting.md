@@ -68,6 +68,10 @@ v1.0でカラミティⅣ・Ⅴおよびアポカリプス（Apocalypse）が追
 
 > 🔍 **2026年3月29日 新規報告**: Act 2 **オケアノス**エリアで何らかのバグが発生しているとの報告がコミュニティに投稿された（スレッド: "Okeanos bug"）。詳細は情報収集中。
 
+> 🔍 **2026年3月31日 新規報告**: **エリートハント（Elite Hunter）関連のバグ**がコミュニティで報告されている（スレッド: "ELITE HUNTER BUG"）。詳細不明・調査中。
+
+> 🔍 **2026年3月31日 新規報告**: **Processional Path から Traitor's Outpost へのルート上で進行が詰まるバグ**がコミュニティで報告されている（4コメント）。該当エリアがどの Act に属するかも含め調査中。
+
 ---
 
 ## Draconic Tarotシステム
@@ -158,7 +162,7 @@ v1.0でカラミティⅣ・Ⅴおよびアポカリプス（Apocalypse）が追
 - **Dust** はDark Merchantへの売却のほか、**Desolation III以上のセミボス/ボス**を討伐しても入手できる
 - Dustの用途: 詳細は情報収集中
 
-> 🔍 **「Convert to Potential/Gold」メカニクスについて**: コミュニティで "Convert to Potential/Gold" という操作名が言及されている。「**Potential**」というゴールド・ダストとは別の第3リソースが存在する可能性がある。情報収集中。
+> 🔍 **「Convert to Potential/Gold」メカニクスについて**: コミュニティで "Convert to Potential/Gold" という操作名が言及されている。公式ガイドではゲーム内通貨は **Dust と Gold の2種**のみが公式に説明されており、「Potential」は独立した第3通貨ではなくUI上の表現（Enchanter などでの素材変換ラベル等）の可能性が高い。引き続き調査中。
 
 ---
 

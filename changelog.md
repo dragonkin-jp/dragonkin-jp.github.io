@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-03-31: 新規バグ情報追記（Elite Hunter / Processional Path / Divine Familiar）、Potential調査メモ更新、Twitch Drops終了記録
 - 2026-03-30: Thorns/Summonerビルド追加、ティアリスト・バグ情報追記
 - 2026-03-29: 定期調査アップデート
 - 2026-03-27: Primordial Dustドロップ条件修正、Dark Merchant詳細追記
