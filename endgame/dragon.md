@@ -17,7 +17,7 @@
 | 1 | **カアラング（Kaaralang）** | Banished Lord of the Jungle | ジャ＝クサラ（Act 1） | The End of Whispers | EA から存在。名前・情報確認済み |
 | 2 | **ザンティネオス（Xhantineos）** | Banished Lord of Okeanos | オケアノス（Act 2） | Pride and its Cost | パッチノートで名称確認済み |
 | 3 | **ヴィドスクリグ（Vidskrig）** | Banished Lord of Nurõrgartt | ヌルガルト（Act 3） | Death and Memory | パッチノートで名称確認済み |
-| 4 | **不明** | Banished Lord of Erde-nòr | エルデ=ノール（Act 4） | Virtue and Strength | PS5トロフィーで存在確認。名前未判明 |
+| 4 | **Saur Ikhnog（サウル・イクノグ）** | Banished Lord of Erde-nòr | エルデ=ノール（Act 4） | Virtue and Strength | 正式名称確認済み（NamuWiki / 海外情報） |
 | 5 | **プライモーディアル・バニッシュド・ロード** | Primordial Banished Lord | 不明（最終決戦） | The Light Prevails | PS5トロフィーで存在確認。詳細は情報収集中 |
 
 ---
@@ -63,14 +63,15 @@
 
 ---
 
-### 4. エルデ=ノールのドラゴンロード（名称未確認）
-- **肩書き**: Banished Lord of Erde-nòr（エルデ=ノールの追放王）と推定
+### 4. Saur Ikhnog（サウル・イクノグ）
+- **肩書き**: Banished Lord of Erde-nòr（エルデ=ノールの追放王）、別称「深紅の追放王（Crimson Dragon Lord）」
 - **対応バイオーム**: エルデ=ノール（Erde-nòr） — 火山荒廃地帯（Act 4）
   - 主なエリア: 炎の地下墓地（Catacombs of Fire）、溶岩地帯、廃城跡
 - **特徴**: EA期間の第2メジャーアップデート（2025年9月 Trackerアップデート）でバイオームが追加。PS5トロフィー「Virtue and Strength」がこのボス討伐で解放されることが確認されている。エンドゲームハント「The Monster of Erde-nòr」としても登場
 - **属性**: 火炎系
+- **ロア**: 人間とドラゴンの戦争を引き起こした存在とされている（NamuWikiより）
 - **コミュニティ通称**: 「Red Dragon Lord（赤のドラゴンロード）」（Steamコミュニティで広く使われている呼称）
-- **正式名称**: 未確認（情報収集中）
+- 攻略詳細: 情報収集中
 
 ---
 
