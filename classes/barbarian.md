@@ -136,7 +136,7 @@
 回避と同時に対象への攻撃判定が発生。戦闘を離脱しながらダメージを継続できる。
 
 ### 注目スキル（コミュニティ情報）
-- Savage Whirlwind（旋風）: 範囲回転攻撃。複数敵一掃に強い。Whirlwindビルドの主力
+- Savage Whirlwind（旋風）: 範囲回転攻撃。複数敵一掃に強い。Whirlwindビルドの主力。**エネルギー消費なしで無限チャネルできたエクスプロイトは2026年4月1日パッチで修正済み**
 - Hailstorm Barrage: 氷属性。Wyrmlingトリガーで追加弾発射、凍結付与
 - Corrupted Blood +6: ライフをエネルギーの代わりに消費→バリア50%付与＋エネルギー回復量500%ライフ回復に変換。スキル連発が可能になる上級スキル
 
@@ -168,7 +168,7 @@
 | スキル名 | 種別 | 属性 | 効果・説明 | 情報源 |
 | --- | --- | --- | --- | --- |
 | Axe of Toriel（トリエルの斧） | 不明 | 物理/氷 | バーバリアンの代表的スキル。詳細は情報収集中 | Steam コミュニティ |
-| Savage Whirlwind（旋風） | Primary | 物理 | 周囲に継続範囲ダメージ。複数敵処理に強力。Whirlwindビルドの主力 | SlashingCreeps / Steam |
+| Savage Whirlwind（旋風） | Primary | 物理 | 周囲に継続範囲ダメージ。複数敵処理に強力。Whirlwindビルドの主力。エネルギー無消費チャネルのエクスプロイトは2026年4月1日パッチで修正済み | SlashingCreeps / Steam |
 | Flurry of Blows（連打） | Primary | 物理 | Whirlwindとセットで使用。エネルギー低下時に使うと効果的 | SlashingCreeps |
 | Hailstorm Barrage（ひょう弾雨） | Primary | 氷 | Wyrmlingトリガーで追加弾発射。敵を凍結させる | Steam コミュニティ |
 | Corrupted Blood（汚染された血）+6 | Utility/特殊 | 物理 | ライフをエネルギーの代わりに消費。バリア50%付与＋エネルギー回復の500%をHP回復へ変換。スキル連発を可能にする上級スキル | Steam コミュニティ |
