@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-06: 4/1パッチ（Post-Launch Stability Patch + New Modifier）反映。Bonus Beams追加・全クラスリバランス・召喚AIバグ修正・Tribute Wall Act2解放・アンセスターアカウント共有・タレントリング化
 - 2026-04-03: 新規バグ情報追記（アチーブメント未達成・コントローラーフラグメント回転不能・ハント報酬未受取）、既知バグ日付を4月3日に更新
 - 2026-03-31: 新規バグ情報追記（Elite Hunter / Processional Path / Divine Familiar）、Potential調査メモ更新、Twitch Drops終了記録
 - 2026-03-30: Thorns/Summonerビルド追加、ティアリスト・バグ情報追記
