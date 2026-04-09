@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-09: equipment.md を新規作成（装備レアリティ5段階・Draconic/Divine モディファイア詳細・Mythic Godlike 誤認を解説）。patch-notes.md に4/1パッチ3件追記（Vidskrig's Lair敵数削減・ダメージ表示修正・Twitch Drops UI修正）。hunting.md に最終マップノード完了不能バグ追記。glossary.md アイテムレアリティ欄を詳細化
 - 2026-04-06: 4/1パッチ（Post-Launch Stability Patch + New Modifier）反映。Bonus Beams追加・全クラスリバランス・召喚AIバグ修正・Tribute Wall Act2解放・アンセスターアカウント共有・タレントリング化
 - 2026-04-03: 新規バグ情報追記（アチーブメント未達成・コントローラーフラグメント回転不能・ハント報酬未受取）、既知バグ日付を4月3日に更新
 - 2026-03-31: 新規バグ情報追記（Elite Hunter / Processional Path / Divine Familiar）、Potential調査メモ更新、Twitch Drops終了記録

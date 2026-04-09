@@ -24,6 +24,7 @@
   * [クラフト](city-craft/crafting.md)
 * [ストーリー攻略](story.md)
 * [レベリング](leveling.md)
+* [アイテム・装備](equipment.md)
 * [マルチプレイ](multiplayer.md)
 * [Tips・豆知識](tips.md)
 * [パッチノート](patch-notes.md)
