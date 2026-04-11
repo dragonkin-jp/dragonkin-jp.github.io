@@ -38,13 +38,16 @@
 - **Twitch DropsオプションがカスタマイズメニューUIに表示されないバグを修正**
 - マルチプレイのオンライン安定性を全体的に改善
 
-### 未修正の既知バグ（2026年4月5日時点）
+### 未修正の既知バグ（2026年4月11日時点）
 
 - **RTX 40/50系 Frame Generation 恒久修正**: v1.3.66で「次パッチで恒久修正予定」とあったが、今パッチでの明示的な言及なし。修正済みかどうか未確認
 - **ルートフィルター停止問題**: 今パッチでの修正を確認できず。引き続き未修正の可能性あり
 - **マウス移動時のFPS急落**: 今パッチでの修正確認なし
 - **アチーブメント「Create 5 skills together with your dragon」未達成バグ**: 修正状況未確認
 - **コントローラー使用時のフラグメント回転不能バグ**: 修正状況未確認
+- **マウスカーソルが常に照準状態になるバグ**（「The mouse cursor is always aiming」）: 2026年4月10日頃コミュニティで報告。修正状況不明（Steamコミュニティ確認）
+- **Writhing Cyclone ダメージバグ**（「Writhing Cyclone Damage Bug」）: 2026年4月10日頃コミュニティで報告。「Writhing Cyclone」スキルのダメージ計算に不具合がある模様。スキルの正式な位置づけは調査中
+- **ダンジョン浄化バグ**（「Dungeon Purification Bug」）: コミュニティで報告。ダンジョン浄化メカニクスに関する不具合。詳細調査中
 
 [SteamDB: Post-Launch Stability Patch + New Modifier](https://steamdb.info/patchnotes/22583824/)
 [Soren.com: Patch Buffs Summons and Classes](https://soren.com/en/news/dragonkin-the-banished/2026-04-01-dragonkin-the-banished-patch-buffs-summons-and)
