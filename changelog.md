@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-12: patch-notes.md に4/1パッチの記載漏れ8件追記（Koleos Geyser爆発・バトルログ・UIレイアウト・テレポーター・シネマティック・シール破壊エフェクト・ダイアログ・NPCアニメーション）。新規コミュニティ報告バグ2件追記（Explosive Overload・物理ダメージ停止）。既知バグ日付を4月12日に更新
 - 2026-04-11: patch-notes.md に未修正バグ3件追記（マウスカーソル照準固定・Writhing Cycloneダメージバグ・ダンジョン浄化バグ）・既知バグ日付を4月11日に更新。hunting.md に全ダンジョン戦闘スタックバグ・ダンジョン浄化バグを追記
 - 2026-04-09: equipment.md を新規作成（装備レアリティ5段階・Draconic/Divine モディファイア詳細・Mythic Godlike 誤認を解説）。patch-notes.md に4/1パッチ3件追記（Vidskrig's Lair敵数削減・ダメージ表示修正・Twitch Drops UI修正）。hunting.md に最終マップノード完了不能バグ追記。glossary.md アイテムレアリティ欄を詳細化
 - 2026-04-06: 4/1パッチ（Post-Launch Stability Patch + New Modifier）反映。Bonus Beams追加・全クラスリバランス・召喚AIバグ修正・Tribute Wall Act2解放・アンセスターアカウント共有・タレントリング化
