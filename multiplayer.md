@@ -102,6 +102,14 @@
 - **ルートフィルター（Loot Filter）**：各キャラクターに個別に適用される（共有設定は不可）
 - **クラフト素材の注意点**：オンライン↔オフライン切り替え時にクラフト素材が失われる場合がある
 
+### 🐛 Co-op既知バグ・品質問題（2026年4月時点）
+
+> 🔍 **2026年4月13日 新規報告**: **「Horrendous Networking」**（2コメント）がコミュニティで新規投稿。オンラインCo-op時のネットワーク品質に関する不満報告。詳細・具体的な症状は調査中。
+> ソース: https://steamcommunity.com/app/1863430/discussions/0/
+
+> 🔍 **2026年4月13日 新規報告**: **「Co-op Issues | Quality-of-Life Requests | UI/UX Problems」** がコミュニティで新規投稿。Co-opのQoL・UIに関する問題を包括的にまとめたスレッド。内容詳細は調査中。
+> ソース: https://steamcommunity.com/app/1863430/discussions/0/
+
 ### 🐛 Co-op既知バグ（2026年3月時点・未修正）
 
 | バグ | 症状 | 暫定対策 |

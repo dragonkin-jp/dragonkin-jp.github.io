@@ -46,7 +46,7 @@
 - **NPCアニメーションのパフォーマンスを改善**
 - マルチプレイのオンライン安定性を全体的に改善
 
-### 未修正の既知バグ（2026年4月12日時点）
+### 未修正の既知バグ（2026年4月14日時点）
 
 - **RTX 40/50系 Frame Generation 恒久修正**: v1.3.66で「次パッチで恒久修正予定」とあったが、今パッチでの明示的な言及なし。修正済みかどうか未確認
 - **ルートフィルター停止問題**: 今パッチでの修正を確認できず。引き続き未修正の可能性あり
@@ -58,6 +58,8 @@
 - **ダンジョン浄化バグ**（「Dungeon Purification Bug」）: コミュニティで報告。ダンジョン浄化メカニクスに関する不具合。詳細調査中
 - **Explosive Overload バグ**（「Explosive Overload Bug??」）: 2026年4月12日にコミュニティで報告。スキル/モディファイアの挙動に不具合がある模様。詳細・再現条件調査中
 - **物理ダメージ停止バグ**（「Physical stops working」）: 2026年4月12日にコミュニティで報告。物理ダメージが突然機能しなくなるという事象。バグか仕様かは未確定。調査中
+- **Co-opネットワーク品質問題**（「Horrendous Networking」）: 2026年4月13日にコミュニティで報告（2コメント）。オンラインCo-op時のネットワーク品質に関する不満。詳細・再現条件調査中
+- **Co-op品質・UI/UX問題**（「Co-op Issues | Quality-of-Life Requests | UI/UX Problems」）: 2026年4月13日にコミュニティで新規投稿。Co-opのQoL・UI問題を包括的に扱うスレッド。内容詳細は調査中
 
 [SteamDB: Post-Launch Stability Patch + New Modifier](https://steamdb.info/patchnotes/22583824/)
 [Soren.com: Patch Buffs Summons and Classes](https://soren.com/en/news/dragonkin-the-banished/2026-04-01-dragonkin-the-banished-patch-buffs-summons-and)
