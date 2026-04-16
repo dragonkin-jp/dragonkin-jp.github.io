@@ -4,6 +4,7 @@
 
 <!-- FULL_CHANGELOG_START -->
 <!-- FULL_CHANGELOG_END -->
+- 2026-04-17: sources.md にコミュニティガイド2件追加（arpgs.net総合ガイド・Steamガイド「Relics location」）
 - 2026-04-16: city-craft/npc.md の Arsenal にシティLv.5解放条件・フラグメント誤売却注意を追記。game-overview.md にコスメティックDLC一覧（Founders Pack / Lord Pack）と開発者公式ロードマップ声明（cash shopなし・継続サポート・有料DLC可能性）を追記
 - 2026-04-14: patch-notes.md に新規コミュニティ報告バグ2件追記（Co-opネットワーク品質問題・Co-op QoL/UI問題）・既知バグ日付を4月14日に更新。multiplayer.md に4/13新規スレッド2件追記（Horrendous Networking・Co-op Issues）。oracle-summoner.md にエンドゲーム実用性議論スレッド追記。tracker.md にフルポイズンビルド実績追記
 - 2026-04-12: patch-notes.md に4/1パッチの記載漏れ8件追記（Koleos Geyser爆発・バトルログ・UIレイアウト・テレポーター・シネマティック・シール破壊エフェクト・ダイアログ・NPCアニメーション）。新規コミュニティ報告バグ2件追記（Explosive Overload・物理ダメージ停止）。既知バグ日付を4月12日に更新

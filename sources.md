@@ -21,6 +21,10 @@
 [RPGSite - v1.0ローンチ記事](https://www.rpgsite.net/news/19886-dragonkin-the-banished-now-available-pc-ps5-xbox-blood-scale-edition-launch-trailer)
 [aRPG Timeline - アップデート履歴](https://www.arpg-timeline.com/game/dragonkin-the-banished)
 [GamesPress - スキルシステム紹介](https://www.gamespress.com/Dragonkin-The-Banished-Introduces-Its-Unique-Skill-System)
+[arpgs.net - Dragonkin 総合ガイド（Frat 作）](https://arpgs.net)
+
+## Steamコミュニティガイド
+[Relics location（全遺物位置マップ・ロシア語）](https://steamcommunity.com/sharedfiles/filedetails/?id=3688719869)
 
 ---
 
