@@ -10,6 +10,7 @@
 * [アンセストラルグリッド](ancestral-grid.md)
 * [ビルド集](builds/README.md)
   * [Oracle Lightning Mage](builds/oracle-lightning.md)
+  * [Oracle Toxic Wall](builds/oracle-toxic-wall.md)
   * [Barbarian Whirlwind](builds/barbarian-whirlwind.md)
   * [Barbarian Hailstorm](builds/barbarian-hailstorm.md)
   * [Knight Build](builds/knight.md)

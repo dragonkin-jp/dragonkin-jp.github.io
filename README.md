@@ -1,5 +1,7 @@
 # Dragonkin: The Banished 日本語攻略まとめ
 
+![Dragonkin: The Banished](https://cdn.akamai.steamstatic.com/steam/apps/1863430/header.jpg)
+
 > ⚠️ 本サイトは海外コミュニティ（Steam / Reddit / 公式サイト等）の攻略情報を日本語でまとめたものです。情報源は各ページ下部および「情報源・参考リンク」ページを参照してください。
 
 ---
@@ -20,7 +22,7 @@
 - [ゲーム概要](game-overview.md)
 - [クラス攻略](classes/README.md) — [Oracle](classes/oracle.md) / [Barbarian](classes/barbarian.md) / [Knight](classes/knight.md) / [Tracker](classes/tracker.md)
 - [アンセストラルグリッド](ancestral-grid.md)
-- [ビルド集](builds/README.md) — [Oracle Lightning](builds/oracle-lightning.md) / [Barbarian Whirlwind](builds/barbarian-whirlwind.md) / [Barbarian Hailstorm](builds/barbarian-hailstorm.md) / [Knight](builds/knight.md) / [Tracker](builds/tracker.md)
+- [ビルド集](builds/README.md) — [Oracle Lightning](builds/oracle-lightning.md) / [Oracle Toxic Wall](builds/oracle-toxic-wall.md) / [Barbarian Whirlwind](builds/barbarian-whirlwind.md) / [Barbarian Hailstorm](builds/barbarian-hailstorm.md) / [Knight](builds/knight.md) / [Tracker](builds/tracker.md)
 - [エンドゲーム](endgame/README.md) — [アンセスター＆トリビュート](endgame/ancestor.md) / [ハンティングマップ](endgame/hunting.md) / [ドラゴンロード](endgame/dragon.md) / [難易度](endgame/difficulty.md)
 - [シティ＆クラフト](city-craft/README.md) — [NPC施設](city-craft/npc.md) / [クラフト](city-craft/crafting.md)
 - [ストーリー攻略](story.md)

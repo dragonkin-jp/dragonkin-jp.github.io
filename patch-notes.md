@@ -46,20 +46,22 @@
 - **NPCアニメーションのパフォーマンスを改善**
 - マルチプレイのオンライン安定性を全体的に改善
 
-### 未修正の既知バグ（2026年4月14日時点）
+### 未修正の既知バグ（2026年4月19日時点）
 
-- **RTX 40/50系 Frame Generation 恒久修正**: v1.3.66で「次パッチで恒久修正予定」とあったが、今パッチでの明示的な言及なし。修正済みかどうか未確認
+- **RTX 40/50系 ブラックスクリーンバグ（継続）**: v1.3.66で暫定対処（Frame Gen無効化）済みだが、**2026年4月18日時点でも報告が継続**している。恒久修正は次パッチ以降待ち（[Steamコミュニティスレッド](https://steamcommunity.com/app/1863430/discussions/0/591764935569134494/)）
 - **ルートフィルター停止問題**: 今パッチでの修正を確認できず。引き続き未修正の可能性あり
 - **マウス移動時のFPS急落**: 今パッチでの修正確認なし
 - **アチーブメント「Create 5 skills together with your dragon」未達成バグ**: 修正状況未確認
 - **コントローラー使用時のフラグメント回転不能バグ**: 修正状況未確認
-- **マウスカーソルが常に照準状態になるバグ**（「The mouse cursor is always aiming」）: 2026年4月10日頃コミュニティで報告。修正状況不明（Steamコミュニティ確認）
-- **Writhing Cyclone ダメージバグ**（「Writhing Cyclone Damage Bug」）: 2026年4月10日頃コミュニティで報告。「Writhing Cyclone」スキルのダメージ計算に不具合がある模様。スキルの正式な位置づけは調査中
+- **マウスカーソルが常に照準状態になるバグ**（「The mouse cursor is always aiming」）: 2026年4月10日頃コミュニティで報告。修正状況不明
+- **Writhing Cyclone ダメージバグ**（「Writhing Cyclone Damage Bug」）: 2026年4月10日頃コミュニティで報告。「Writhing Cyclone」スキルのダメージ計算に不具合がある模様
 - **ダンジョン浄化バグ**（「Dungeon Purification Bug」）: コミュニティで報告。ダンジョン浄化メカニクスに関する不具合。詳細調査中
-- **Explosive Overload バグ**（「Explosive Overload Bug??」）: 2026年4月12日にコミュニティで報告。スキル/モディファイアの挙動に不具合がある模様。詳細・再現条件調査中
-- **物理ダメージ停止バグ**（「Physical stops working」）: 2026年4月12日にコミュニティで報告。物理ダメージが突然機能しなくなるという事象。バグか仕様かは未確定。調査中
-- **Co-opネットワーク品質問題**（「Horrendous Networking」）: 2026年4月13日にコミュニティで報告（2コメント）。オンラインCo-op時のネットワーク品質に関する不満。詳細・再現条件調査中
-- **Co-op品質・UI/UX問題**（「Co-op Issues | Quality-of-Life Requests | UI/UX Problems」）: 2026年4月13日にコミュニティで新規投稿。Co-opのQoL・UI問題を包括的に扱うスレッド。内容詳細は調査中
+- **Explosive Overload バグ**（「Explosive Overload Bug??」）: 2026年4月12日にコミュニティで報告。スキル/モディファイアの挙動に不具合がある模様
+- **物理ダメージ停止バグ**（「Physical stops working」）: 2026年4月12日にコミュニティで報告。物理ダメージが突然機能しなくなるという事象。バグか仕様かは未確定
+- **Co-opネットワーク品質問題**（「Horrendous Networking」）: 2026年4月13日にコミュニティで報告。オンラインCo-op時のネットワーク品質に関する不満
+- **Co-op品質・UI/UX問題**（「Co-op Issues | Quality-of-Life Requests | UI/UX Problems」）: 2026年4月13日にコミュニティで新規投稿。Co-opのQoL・UI問題を包括的に扱うスレッド
+- **Lv.50バーバリアン属性ポイント消失バグ**: 2026年4月2日にコミュニティで報告。Lv.50バーバリアンでFortitude属性のポイントを強化しようとすると値が30ポイント減少し、失われたポイントが返還されない。開発者対応・回避策ともに未確認（[Steamコミュニティスレッド](https://steamcommunity.com/app/1863430/discussions/0/797840128955530843/)）
+- **ダンジョンハントバグ**（「Dungeon Hunt Bugged」）: 2026年4月18日にコミュニティで新規報告。ダンジョンハントで進行に支障をきたすバグが発生している模様。詳細調査中（[Steamコミュニティスレッド](https://steamcommunity.com/app/1863430/discussions/0/807974496347855865/)）
 
 [SteamDB: Post-Launch Stability Patch + New Modifier](https://steamdb.info/patchnotes/22583824/)
 [Soren.com: Patch Buffs Summons and Classes](https://soren.com/en/news/dragonkin-the-banished/2026-04-01-dragonkin-the-banished-patch-buffs-summons-and)

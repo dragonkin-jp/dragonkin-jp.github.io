@@ -4,6 +4,8 @@
 
 ---
 
+![Dragonkin: The Banished](https://cdn.akamai.steamstatic.com/steam/apps/1863430/header.jpg)
+
 # Dragonkin: The Banished とは
 EkoSoftwareが開発した見下ろし型アクションRPG（ハクスラ）。ドラゴンの血に汚染された世界を舞台に、ドラゴンハンターとして4種のヒーロークラスを使い分けながら敵を倒していくゲーム。
 
