@@ -62,6 +62,7 @@
 - **Co-op品質・UI/UX問題**（「Co-op Issues | Quality-of-Life Requests | UI/UX Problems」）: 2026年4月13日にコミュニティで新規投稿。Co-opのQoL・UI問題を包括的に扱うスレッド
 - **Lv.50バーバリアン属性ポイント消失バグ**: 2026年4月2日にコミュニティで報告。Lv.50バーバリアンでFortitude属性のポイントを強化しようとすると値が30ポイント減少し、失われたポイントが返還されない。開発者対応・回避策ともに未確認（[Steamコミュニティスレッド](https://steamcommunity.com/app/1863430/discussions/0/797840128955530843/)）
 - **ダンジョンハントバグ**（「Dungeon Hunt Bugged」）: 2026年4月18日にコミュニティで新規報告。ダンジョンハントで進行に支障をきたすバグが発生している模様。詳細調査中（[Steamコミュニティスレッド](https://steamcommunity.com/app/1863430/discussions/0/807974496347855865/)）
+- **グリッドがアーセナルに保存されないバグ**（「Grid not saved into Arsenal?」）: 2026年4月21日にコミュニティで新規報告。アンセストラルグリッドの設定がアーセナルに保存されない現象。詳細調査中（[Steamコミュニティ](https://steamcommunity.com/app/1863430/discussions/)）
 
 [SteamDB: Post-Launch Stability Patch + New Modifier](https://steamdb.info/patchnotes/22583824/)
 [Soren.com: Patch Buffs Summons and Classes](https://soren.com/en/news/dragonkin-the-banished/2026-04-01-dragonkin-the-banished-patch-buffs-summons-and)

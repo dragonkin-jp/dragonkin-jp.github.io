@@ -2,24 +2,134 @@
 
 > このページではサイトのゲーム内容に関する全更新履歴を確認できます。
 
-<!-- FULL_CHANGELOG_START -->
-<!-- FULL_CHANGELOG_END -->
-- 2026-04-19: Steam公式ヘッダー画像をREADME・game-overview.mdに追加。Oracle Toxic Wallビルドページ新規作成。patch-notes.mdに新規バグ3件追記（RTX黒画面継続・Lv.50バーバリアン属性消失・ダンジョンハントバグ）。story.mdにFallen Oracleクエスト回避策追記。oracle-summoner.mdのエンドゲーム評価を1.0メタ後の情報に更新
-- 2026-04-17: sources.md にコミュニティガイド2件追加（arpgs.net総合ガイド・Steamガイド「Relics location」）
-- 2026-04-16: city-craft/npc.md の Arsenal にシティLv.5解放条件・フラグメント誤売却注意を追記。game-overview.md にコスメティックDLC一覧（Founders Pack / Lord Pack）と開発者公式ロードマップ声明（cash shopなし・継続サポート・有料DLC可能性）を追記
-- 2026-04-14: patch-notes.md に新規コミュニティ報告バグ2件追記（Co-opネットワーク品質問題・Co-op QoL/UI問題）・既知バグ日付を4月14日に更新。multiplayer.md に4/13新規スレッド2件追記（Horrendous Networking・Co-op Issues）。oracle-summoner.md にエンドゲーム実用性議論スレッド追記。tracker.md にフルポイズンビルド実績追記
-- 2026-04-12: patch-notes.md に4/1パッチの記載漏れ8件追記（Koleos Geyser爆発・バトルログ・UIレイアウト・テレポーター・シネマティック・シール破壊エフェクト・ダイアログ・NPCアニメーション）。新規コミュニティ報告バグ2件追記（Explosive Overload・物理ダメージ停止）。既知バグ日付を4月12日に更新
-- 2026-04-11: patch-notes.md に未修正バグ3件追記（マウスカーソル照準固定・Writhing Cycloneダメージバグ・ダンジョン浄化バグ）・既知バグ日付を4月11日に更新。hunting.md に全ダンジョン戦闘スタックバグ・ダンジョン浄化バグを追記
-- 2026-04-09: equipment.md を新規作成（装備レアリティ5段階・Draconic/Divine モディファイア詳細・Mythic Godlike 誤認を解説）。patch-notes.md に4/1パッチ3件追記（Vidskrig's Lair敵数削減・ダメージ表示修正・Twitch Drops UI修正）。hunting.md に最終マップノード完了不能バグ追記。glossary.md アイテムレアリティ欄を詳細化
-- 2026-04-06: 4/1パッチ（Post-Launch Stability Patch + New Modifier）反映。Bonus Beams追加・全クラスリバランス・召喚AIバグ修正・Tribute Wall Act2解放・アンセスターアカウント共有・タレントリング化
-- 2026-04-03: 新規バグ情報追記（アチーブメント未達成・コントローラーフラグメント回転不能・ハント報酬未受取）、既知バグ日付を4月3日に更新
-- 2026-03-31: 新規バグ情報追記（Elite Hunter / Processional Path / Divine Familiar）、Potential調査メモ更新、Twitch Drops終了記録
-- 2026-03-30: Thorns/Summonerビルド追加、ティアリスト・バグ情報追記
-- 2026-03-29: 定期調査アップデート
-- 2026-03-27: Primordial Dustドロップ条件修正、Dark Merchant詳細追記
-- 2026-03-27: 第2ホットフィックス・Draconic Tarot/Atlas・Champion情報追記
-- 2026-03-25: v1.0未修正バグ情報・マルチプレイパッチ詳細追記
-- 2026-03-23: マルチプレイタレント・Dark Merchant・ナイトスキル追加
-- 2026-03-20: Act順序確定・スキル追加・Domistria/Dark Merchant情報追加
-- 2026-03-18: 全ページ詳細化（ビルド・エンドゲーム・クラス・用語集・マルチプレイ）
-- 2026-03-17: 初版作成（v1.0正式リリース直後）
+---
+
+## 2026-04-21
+
+- [ワイバーミング](classes/wyrmling.md): 新規作成（種類・Symbiosisメカニクス・クラス別推奨）
+- [Barbarian Glacial Boulder](builds/barbarian-glacial-boulder.md): 新規作成（S-Tierビルド・キーフラグメント・レイジ管理）
+- [パッチノート](patch-notes.md): 「グリッドがアーセナルに保存されない」バグ（4/21報告）を追記
+- [Tips・豆知識](tips.md): ウルトラワイドモニター対応状況（3440×1440 OK・5120×1440 黒帯）を追記
+
+---
+
+## 2026-04-19
+
+- [ゲーム概要](game-overview.md) / [README](README.md): Steam公式ヘッダー画像を追加
+- [Oracle Toxic Wall](builds/oracle-toxic-wall.md): 新規作成
+- [パッチノート](patch-notes.md): 新規バグ3件追記（RTX黒画面継続・Lv.50バーバリアン属性消失・ダンジョンハントバグ）
+- [ストーリー攻略](story.md): Fallen Oracleクエスト回避策追記
+- [Oracle Summoner](builds/oracle-summoner.md): エンドゲーム評価を1.0メタ後の情報に更新
+
+---
+
+## 2026-04-17
+
+- [情報源](sources.md): コミュニティガイド2件追加（arpgs.net総合ガイド・Steamガイド「Relics location」）
+
+---
+
+## 2026-04-16
+
+- [NPC施設](city-craft/npc.md): Arsenal にシティLv.5解放条件・フラグメント誤売却注意を追記
+- [ゲーム概要](game-overview.md): コスメティックDLC一覧（Founders Pack / Lord Pack）・開発者公式ロードマップ声明を追記
+
+---
+
+## 2026-04-14
+
+- [パッチノート](patch-notes.md): 新規コミュニティ報告バグ2件追記（Co-opネットワーク品質・Co-op QoL/UI問題）
+- [マルチプレイ](multiplayer.md): 4/13新規スレッド2件追記（Horrendous Networking・Co-op Issues）
+- [Oracle Summoner](builds/oracle-summoner.md): エンドゲーム実用性議論スレッド追記
+- [Tracker](classes/tracker.md): フルポイズンビルド実績追記
+
+---
+
+## 2026-04-12
+
+- [パッチノート](patch-notes.md): 4/1パッチの記載漏れ8件追記（Koleos Geyser爆発・バトルログ・UIレイアウト・テレポーター・シネマティック・シール破壊・ダイアログ・NPCアニメーション）・新規バグ2件追記（Explosive Overload・物理ダメージ停止）
+
+---
+
+## 2026-04-11
+
+- [パッチノート](patch-notes.md): 未修正バグ3件追記（マウスカーソル照準固定・Writhing Cycloneダメージバグ・ダンジョン浄化バグ）
+- [ハンティングマップ](endgame/hunting.md): 全ダンジョン戦闘スタックバグ・ダンジョン浄化バグを追記
+
+---
+
+## 2026-04-09
+
+- [アイテム・装備](equipment.md): 新規作成（装備レアリティ5段階・Draconic/Divineモディファイア詳細・Mythic Godlike誤認を解説）
+- [パッチノート](patch-notes.md): 4/1パッチ3件追記（Vidskrig's Lair敵数削減・ダメージ表示修正・Twitch Drops UI修正）
+- [ハンティングマップ](endgame/hunting.md): 最終マップノード完了不能バグ追記
+- [用語集](glossary.md): アイテムレアリティ欄を詳細化
+
+---
+
+## 2026-04-06
+
+- [パッチノート](patch-notes.md): 4/1パッチ（Post-Launch Stability Patch + New Modifier）を反映（Bonus Beams追加・全クラスリバランス・召喚AIバグ修正・Tribute Wall Act2解放・アンセスターアカウント共有・タレントリング化）
+
+---
+
+## 2026-04-03
+
+- [パッチノート](patch-notes.md): 新規バグ情報追記（アチーブメント未達成・コントローラーフラグメント回転不能・ハント報酬未受取）
+
+---
+
+## 2026-03-31
+
+- [パッチノート](patch-notes.md): 新規バグ情報追記（Elite Hunter / Processional Path / Divine Familiar）、Potential調査メモ更新、Twitch Drops終了記録
+
+---
+
+## 2026-03-30
+
+- [ビルド集](builds/README.md): Thorns / Summoner ビルド追加
+- [パッチノート](patch-notes.md): ティアリスト・バグ情報追記
+
+---
+
+## 2026-03-29
+
+- 定期調査アップデート（各ページ細部修正）
+
+---
+
+## 2026-03-27
+
+- [ハンティングマップ](endgame/hunting.md): Primordial Dustドロップ条件修正・Dark Merchant詳細追記
+- [ストーリー攻略](story.md): 第2ホットフィックス・Draconic Tarot / Atlas・Champion情報追記
+
+---
+
+## 2026-03-25
+
+- [パッチノート](patch-notes.md): v1.0未修正バグ情報・マルチプレイパッチ詳細追記
+
+---
+
+## 2026-03-23
+
+- [マルチプレイ](multiplayer.md): マルチプレイタレント・Dark Merchant・ナイトスキル追加
+
+---
+
+## 2026-03-20
+
+- [ストーリー攻略](story.md): Act順序確定・スキル追加
+- [ゲーム概要](game-overview.md): Domistria / Dark Merchant情報追加
+
+---
+
+## 2026-03-18
+
+- 全ページ詳細化（ビルド・エンドゲーム・クラス・用語集・マルチプレイ）
+
+---
+
+## 2026-03-17
+
+- 初版作成（v1.0正式リリース直後）
