@@ -72,6 +72,15 @@ EkoSoftwareが開発した見下ろし型アクションRPG（ハクスラ）。
 
 ---
 
+## Steamレビュー評価（2026-04-22時点）
+
+| 期間 | 評価 | 件数 |
+|------|------|------|
+| 全期間 | Mostly Positive（73%） | 1,861件 |
+| 直近30日 | Mostly Positive（74%） | 515件 |
+
+---
+
 ## 情報源
 [Nacon公式: Dragonkin The Banished](https://www.nacongaming.com/en-US/dragonkin-the-banished)
 [v1.0ローンチ記事 (Soren.com)](https://soren.com/en/news/dragonkin-the-banished/2026-03-16-dragonkin-the-banished-10-unleashes-full-story)

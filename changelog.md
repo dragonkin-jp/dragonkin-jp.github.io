@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-04-23
+
+- [パッチノート](patch-notes.md): RTX黒画面バグに起動オプション回避策（`-clearPSODriverCache -deleteuserpsocache`）を追記
+- [Tips・豆知識](tips.md): RTX 40/50系ブラックスクリーン対処セクションを新設
+- [ハンティングマップ](endgame/hunting.md): ダンジョン浄化バグにコミュニティ発見の回避手順を追記
+- [ゲーム概要](game-overview.md): Steamレビュー評価欄を追加（全期間73%・直近30日74%、2026-04-22時点）
+
+---
+
 ## 2026-04-21
 
 - [ワイバーミング](classes/wyrmling.md): 新規作成（種類・Symbiosisメカニクス・クラス別推奨）
