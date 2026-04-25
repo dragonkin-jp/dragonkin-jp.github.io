@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-04-25
+
+- [ゲーム概要](game-overview.md): 「今後のサポート方針」を4/23公式発表（"We're not done yet!"）に合わせて更新。ローンチ未収録コンテンツ追加・最多リクエスト機能実装予定・ロードマップ続報（4月末〜5月初）を明記
+
+---
+
 ## 2026-04-23
 
 - [パッチノート](patch-notes.md): RTX黒画面バグに起動オプション回避策（`-clearPSODriverCache -deleteuserpsocache`）を追記
