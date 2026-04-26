@@ -34,3 +34,9 @@
 * [情報源](sources.md)
 * [用語集](glossary.md)
 * [更新履歴](changelog.md)
+
+---
+
+* [運営者情報](about.md)
+* [プライバシーポリシー](privacy.md)
+* [お問い合わせ](contact.md)
