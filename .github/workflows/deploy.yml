@@ -149,6 +149,7 @@ jobs:
               url = url.replace(chr(92), "/")
               if url.endswith(".md"):
                   url = url[:-3] + ".html"
+              url = url.replace("README.html", "index.html")
               return url
 
           url_changed = 0
