@@ -5,6 +5,18 @@
 
 ---
 
+## 機能追加 — City Transfer（2026年4月30日）
+
+### 新機能
+
+- **都市の online/offline 間転送** を実装
+  都市オーナーがいつでも・無制限に都市を online ⇄ offline モード間で移動可能。都市レベル・ゴールド・リソースは転送後も保持。
+  詳細は [マルチプレイ > 都市転送](multiplayer.md#オンラインオフライン切り替えと転送機能) を参照。
+
+> 📌 ソース: [Steam: Introducing City Transfer Between Offline and Online Play (2026-04-30)](https://store.steampowered.com/news/app/1863430/view/499478556610397182)
+
+---
+
 ## v1.3.x — Post-Launch Stability Patch + New Modifier（2026年4月1日）
 
 ### 新モディファイア

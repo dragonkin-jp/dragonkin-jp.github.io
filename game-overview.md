@@ -56,14 +56,22 @@ EkoSoftwareが開発した見下ろし型アクションRPG（ハクスラ）。
 
 v1.0リリースから約1ヶ月後、開発チームがSteamニュースで継続開発を正式発表。
 
-- **開発は終わっていない**: "This isn't the end of development. We're still working on Dragonkin"
-- **ライブサービス化なし**: in-game store・シーズンパス・cash shopは導入しない方針を再確認
+- **開発は終わっていない**: ゲームは完成品として提供されているが、開発自体は継続中
+- **ライブサービス化なし**: in-game store・シーズンパス・cash shopは導入しない方針を明言
 - **追加コンテンツ**: ローンチに入れられなかったコンテンツ、およびコミュニティから最も要望されている機能を実装予定
-- **拡張手段**: 無料アップデート + 有料DLCの組み合わせ（強制的な継続課金サイクルは設けない）
-- **続報予告**: 発表翌週（2026年4月末〜5月初）に具体的な内容を公開予定
+- **拡張手段**: 無料アップデート + 有料DLC の組み合わせ。DLC は単体で完結し、初期体験への任意追加として設計される（強制課金サイクルなし）
+- **次の大型コンテンツは数ヶ月先**: QoL 改善・ホットフィックスは随時リリース。大型コンテンツアップデートは「a few months」先と明記
 
-> 📌 ロードマップ詳細は2026年4月末〜5月初旬に公開予定。続報を待つ段階。  
-> ソース: [Steam: We're not done yet! (2026-04-23)](https://store.steampowered.com/news/app/1863430/view/499478556610396737)
+> 📌 ソース: [Steam: We're not done yet! (2026-04-23)](https://store.steampowered.com/news/app/1863430/view/499478556610396737)
+
+### 2026年4月30日 — City Transfer 実装
+
+4/23 で予告した「コミュニティ最多リクエスト機能」の第一弾として、**都市（City）の online/offline 間転送機能**を実装。
+
+- **都市を online ⇄ offline でいつでも移動可能**（頻度制限なし）
+- 詳細は [マルチプレイ > 都市・キャラクターの転送](multiplayer.md#オンラインオフライン切り替えと転送機能) を参照
+
+> 📌 ソース: [Steam: Introducing City Transfer Between Offline and Online Play (2026-04-30)](https://store.steampowered.com/news/app/1863430/view/499478556610397182)
 
 ---
 
