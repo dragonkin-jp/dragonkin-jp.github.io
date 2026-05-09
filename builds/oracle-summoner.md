@@ -34,6 +34,9 @@ v1.0でオラクルに追加されたタレント「**Summoner Strategist（召�
 > ⚠️ エンドゲーム（Calamity帯）での召喚ビルド単独の火力は高くない。Lightning MageやToxic Wallビルドに比べてクリア速度が低いため、ランキングやシーズンスピード重視のプレイには不向き。探索・ストーリー向きのスタイル。
 > ソース: [Steamコミュニティスレッド（April 16）](https://steamcommunity.com/app/1863430/discussions/0/797838802067450237/)
 
+**追加議論（2026-05-07）**: コミュニティで「Summoner classes are they viable」スレッドが新規投稿され、サモナー実用性の議論が継続中。
+> ソース: [Steamコミュニティスレッド（May 7）](https://steamcommunity.com/app/1863430/discussions/0/797841122761131030/)
+
 ---
 
 ## 召喚物 AI バグの状況（2026年4月更新）

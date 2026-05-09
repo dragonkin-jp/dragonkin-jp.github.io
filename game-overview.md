@@ -73,6 +73,15 @@ v1.0リリースから約1ヶ月後、開発チームがSteamニュースで継�
 
 > 📌 ソース: [Steam: Introducing City Transfer Between Offline and Online Play (2026-04-30)](https://store.steampowered.com/news/app/1863430/view/499478556610397182)
 
+### 2026年5月7日 — "Thanks, Hunters!"（Nacon Connect 2026）
+
+Nacon Connect 2026 にあわせ、Steam公式アナウンスでコミュニティへの感謝を表明。**Community Accolade Trailer**（プレイヤーのレビュー・反応をハイライトする映像）が公開された。
+
+- **新コンテンツ・新DLC・新ロードマップの予告は含まれない**（広報・感謝表明の枠）
+- 4/23 表明・4/30 City Transfer 体制が継続。**次の大型コンテンツアップデートは引き続き「数ヶ月先」**予定
+
+> 📌 ソース: [Steam: Thanks, Hunters! (2026-05-07)](https://store.steampowered.com/news/app/1863430/view/653728111564686058) / [YouTube: Community Accolade Trailer](https://www.youtube.com/watch?v=selMEc7U8Ws)
+
 ---
 
 ## 基本ゲームフロー

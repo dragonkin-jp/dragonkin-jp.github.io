@@ -4,6 +4,13 @@
 
 ---
 
+## 2026-05-09
+
+- [ゲーム概要](game-overview.md): 5/7 Steam公式 "Thanks, Hunters!"（Nacon Connect 2026 コミュニティアコレードトレーラー公開）を「今後のサポート方針」に追記。新コンテンツ・新DLC・新ロードマップの予告は含まれず、4/30 City Transfer 体制が継続中であることを明記
+- [Oracle Summoner](builds/oracle-summoner.md): 5/7 コミュニティ「Summoner classes are they viable」スレッドへの参照を追加
+
+---
+
 ## 2026-05-01
 
 - [マルチプレイ](multiplayer.md): 都市の online/offline 転送機能（2026-04-30〜）を新セクションとして追加。キャラクター転送との対比表も追記
