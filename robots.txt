@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://dragonkin-jp.github.io/sitemap.xml
+Disallow: /
