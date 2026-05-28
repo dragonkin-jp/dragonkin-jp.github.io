@@ -82,6 +82,18 @@ Nacon Connect 2026 にあわせ、Steam公式アナウンスでコミュニテ�
 
 > 📌 ソース: [Steam: Thanks, Hunters! (2026-05-07)](https://store.steampowered.com/news/app/1863430/view/653728111564686058) / [YouTube: Community Accolade Trailer](https://www.youtube.com/watch?v=selMEc7U8Ws)
 
+### 2026年5月21日 — "Full Cross-Platform Multiplayer Is Coming!" 発表
+
+Steam公式アナウンスで、**フルクロスプラットフォームマルチプレイ**と新しい**招待コード（Invite Code）制度**の実装予告が行われた。
+
+- **フルクロスプラットフォームマルチプレイ**: 今後のアップデートで PC / PlayStation 5 / Xbox Series X|S 間の同一セッションプレイに対応予定。**実装時期は明示されていない**
+- **クロスプレイ無効化オプション**: クロスプレイを希望しないユーザー向けに無効化トグルを用意する旨が示されている
+- **新 Invite Code 制度**: Online City のメンバーが**固有の招待コード**を生成し、Steam フレンド招待を介さず任意のメッセージング手段でシェア可能に。コードを受け取った相手はそのまま City へ参加できる。City メンバーであれば誰でも発行可
+- **2026年のサポート継続**: 残りの 2026 年も追加アップデートが続く旨を再表明。初回 DLC は引き続き開発中
+- **大型コンテンツの時期は依然「数ヶ月先」**: 4/23・4/30 アナウンスからの方針は変わらず
+
+> 📌 ソース: [Steam: Full Cross-Platform Multiplayer Is Coming! (2026-05-21)](https://store.steampowered.com/news/app/1863430/view/576019638373057668)
+
 ---
 
 ## 基本ゲームフロー

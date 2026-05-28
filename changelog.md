@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-05-28
+
+- [攻略] [ゲーム概要](game-overview.md) / [マルチプレイ](multiplayer.md) / [パッチノート](patch-notes.md): **2026-05-21 Steam公式アナウンス "Full Cross-Platform Multiplayer Is Coming!" を反映**。PC / PS5 / Xbox Series X|S 間のフルクロスプラットフォームマルチプレイと新 Invite Code 制度の実装予告（実装時期は未公表、クロスプレイ無効化オプションあり、City メンバーなら誰でも招待コード発行可能）を追加。**2026-05-21 時点では予告段階で未実装**である点を明記
+
+---
+
 ## 2026-05-21
 
 - [攻略] [マルチプレイ](multiplayer.md): **City Transfer の共有チェスト挙動を確定情報に更新**。「追跡中」となっていた箇所を、Online→Offline では共有チェストが**引き継がれない**、Offline→Online では**引き継がれる**、ストーリーグループ進行は両方向で保持、と明記。出典は 2026-04-30 Steam News 公式投稿

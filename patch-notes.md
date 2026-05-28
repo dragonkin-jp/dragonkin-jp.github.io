@@ -5,6 +5,23 @@
 
 ---
 
+## アナウンス — Full Cross-Platform Multiplayer 予告（2026年5月21日）
+
+Steam公式アナウンスで、**フルクロスプラットフォームマルチプレイ**と新しい**招待コード（Invite Code）制度**の実装が予告された。**いずれも 2026-05-21 時点では未実装の予告段階**。
+
+### 予告内容
+
+- **クロスプラットフォーム同一セッション**: PC / PlayStation 5 / Xbox Series X|S 間のセッション統合を今後のアップデートで実装予定。実装時期は明示なし
+- **クロスプレイ無効化オプション**: 希望者向けに無効化トグルを用意
+- **Invite Code 制度**: Online City で固有招待コードを発行し、Steam 招待を介さず共有可能に。City メンバーであれば誰でも発行可
+- **2026年中のサポート継続**を再表明、初回 DLC は引き続き開発中
+
+> 📌 ソース: [Steam: Full Cross-Platform Multiplayer Is Coming! (2026-05-21)](https://store.steampowered.com/news/app/1863430/view/576019638373057668)
+>
+> 詳細は [マルチプレイ > フルクロスプラットフォーム化と Invite Code 制度](multiplayer.md#フルクロスプラットフォーム化と-invite-code-制度2026年5月21日-予告) を参照。
+
+---
+
 ## 機能追加 — City Transfer（2026年4月30日）
 
 ### 新機能
