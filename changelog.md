@@ -4,6 +4,12 @@
 
 ---
 
+## 2026-05-30
+
+- [攻略] [ゲーム概要](game-overview.md) / [パッチノート](patch-notes.md) / [アイテム・装備](equipment.md): **2026-05-28 Steam公式アナウンス "A look at the Horizon - Answering your Questions" を反映**。初回ポストリリース大型アップデート内容（ユニーク武器の導入予告／他クラス由来タレントボーナスをランダム所持・付け替え可、新ランダムイベント Dracomundus Purgatory がエンドゲームハント後とストーリー特定地点で発動・Draconics とユニーク武器の主要ファーム先、4 クラス向けコスメ装備 DLC、クロスプレイ／City Transfer／Invite Code を無料アップデートに同梱、QoL・バグ修正同梱）を追加。**2026-05-28 時点で実装日は未公表、公式が「これ以上のリリース日情報は出さない」と明言**している点を明記
+
+---
+
 ## 2026-05-28
 
 - [攻略] [ゲーム概要](game-overview.md) / [マルチプレイ](multiplayer.md) / [パッチノート](patch-notes.md): **2026-05-21 Steam公式アナウンス "Full Cross-Platform Multiplayer Is Coming!" を反映**。PC / PS5 / Xbox Series X|S 間のフルクロスプラットフォームマルチプレイと新 Invite Code 制度の実装予告（実装時期は未公表、クロスプレイ無効化オプションあり、City メンバーなら誰でも招待コード発行可能）を追加。**2026-05-21 時点では予告段階で未実装**である点を明記

@@ -5,6 +5,25 @@
 
 ---
 
+## アナウンス — "A look at the Horizon"（2026年5月28日）
+
+初回ポストリリース大型アップデートの内容を予告した Steam 公式アナウンス。**2026-05-28 時点ではいずれも実装日未公表**。
+
+### 予告内容
+
+- **ユニーク武器（Uniques）導入予告**: 他クラス由来のタレントボーナスをランダムに持ち、他アイテムを消費して付け替えできる柔軟設計。**現時点では武器のみ**が対象。UI・パッシブ効果は調整中
+- **Dracomundus Purgatory イベント**: エンドゲームハント後およびストーリー特定地点で**ランダム発動**するイベント。Dracomundus バイオームへのポータルが開き、**Draconics・ユニーク武器の主要ファーム先**になる予定。難易度詳細は非公開
+- **コスメティック装甲 DLC**: Knight / Oracle / Barbarian / Tracker 各クラス向けの任意購入コスメ装備（ゲームプレイ影響なし）
+- **クロスプレイ・City Transfer・Invite Code を無料アップデートに同梱**（5/21 既報の再整理）
+- **QoL 改善・バグ修正**を同梱
+- **「リリース日に関してこれ以上の情報は出さない」と明言**。配信時期は依然非公表
+
+> 📌 ソース: [Steam: Dragonkin: The Banished (公式ニュースハブ)](https://steamcommunity.com/app/1863430)（"A look at the Horizon - Answering your Questions" 2026-05-28）
+>
+> 詳細は [ゲーム概要 > 2026年5月28日 "A look at the Horizon"](game-overview.md#2026年5月28日--a-look-at-the-horizon-発表) を参照。
+
+---
+
 ## アナウンス — Full Cross-Platform Multiplayer 予告（2026年5月21日）
 
 Steam公式アナウンスで、**フルクロスプラットフォームマルチプレイ**と新しい**招待コード（Invite Code）制度**の実装が予告された。**いずれも 2026-05-21 時点では未実装の予告段階**。

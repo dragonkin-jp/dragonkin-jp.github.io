@@ -94,6 +94,19 @@ Steam公式アナウンスで、**フルクロスプラットフォームマル�
 
 > 📌 ソース: [Steam: Full Cross-Platform Multiplayer Is Coming! (2026-05-21)](https://store.steampowered.com/news/app/1863430/view/576019638373057668)
 
+### 2026年5月28日 — "A look at the Horizon" 発表
+
+Steam公式アナウンス。**初回ポストリリース大型アップデート**の内容を初めて具体的に予告。**いずれも 2026-05-28 時点で実装日未公表**。
+
+- **ユニーク武器（Uniques）の導入予告**: コミュニティ最多リクエストへの回答。「他ARPGの『ユニーク』はビルド多様性を狭める」という認識のもと、**他クラス由来のタレントボーナスをランダムに持ち、他アイテムを消費して付け替えできる柔軟な設計**を目指すと説明。**現時点では武器のみ**が対象。UI ツールチップ・アイコン・パッシブ効果は調整中
+- **Dracomundus Purgatory イベント**: 新たな**ランダム発生イベント**を予告。**エンドゲームハント後**および**ストーリー特定地点**でランダムに発動し、Dracomundus バイオームへのポータルが開く。**Draconics およびユニーク武器の主要ファーム先**になる予定。難易度詳細は意図的に非公開
+- **クロスプレイ・City Transfer・Invite Code の再言及**: いずれも 5/21 既報の内容を「無料アップデートに同梱」と再整理。クロスプレイは**無効化トグル付き**
+- **コスメティック装甲 DLC**: Knight / Oracle / Barbarian / Tracker 各クラス向けの**任意購入コスメ装備**を予告。ゲームプレイへの影響なし
+- **QoL 改善・バグ修正同梱**: 同アップデートに含まれる旨を明言
+- **リリース日コメント**: 「これ以上のリリース日情報は出さない（"that's as much information as you'll get for the release date"）」と明記。**配信時期は依然非公表**
+
+> 📌 ソース: [Steam: Dragonkin: The Banished (公式ニュースハブ)](https://steamcommunity.com/app/1863430)（"A look at the Horizon - Answering your Questions" 2026-05-28）
+
 ---
 
 ## 基本ゲームフロー
